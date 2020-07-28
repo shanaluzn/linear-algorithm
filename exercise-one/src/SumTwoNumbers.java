@@ -22,7 +22,7 @@ public class SumTwoNumbers {
         result = firstNumber + secondNumber;
 
         // se muestra resultado
-        System.out.println("El resultado es: " +result);
+        System.out.println("El resultado es: " + result);
     }
 }
 
